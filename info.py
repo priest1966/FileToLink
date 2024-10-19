@@ -7,7 +7,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'MovieVerse')
 API_ID = int(environ.get('API_ID', '900652'))
 API_HASH = environ.get('API_HASH', 'a4183efcd370bf03011df1ba8772b1c9')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7064078982:AAF_Ra_y7eoVPr7UtuM2IOOi51ATTAxCyRs")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7217942132:AAEWti67PGB69seXu_nxkm9JHisFo60ZzmU")
 
 # Bot settings
 PORT = environ.get("PORT", "8180")
